@@ -1,0 +1,72 @@
+---
+layout: page
+---
+
+{% if page.url == '/' %}
+
+<p>Welcome to the Lexington High School Student-Faculty Senate! The Senate meets after school on Wednesdays in the Library Media Center.</p>
+
+<p>We implement school-wide policies on a number of issues, from things as mundane as placing extra benches around the school to changes as significant as eliminating the community service requirement for open campus, allowing students to eat in the Quad, or determining what information will be printed on transcripts.</p>
+
+<p>All meetings are open to the public! If you want to change something about the school, we would love to hear and discuss your ideas.</p>
+
+<hr class="small" style="border-color:rgb(6, 35, 86)">
+
+<div style="font-size:0.8em">
+<h1 style="text-align:center">Frequently Asked Questions</h1>
+
+<p><b>When and where does the Senate meet?</b>
+<br/>The Senate meets every Wednesday afternoon after school in the Library Media Center. </p>
+
+<p><b>What happened to X-Block?</b><br/>X-Block was originally created as a time for Senate to meet.  The Department of Education has found that X-Block did not engage the time of a sufficient number of students to be counted as a Time and Learning hour.  The school will be discussing how to restore X-Block to the schedule this year (2014-2015). </p>
+
+<p><b>Are Senate meetings open to those who aren't members?</b><br/>Yes. Anyone who wishes to attend a senate meeting may do so. </p>
+
+<p><b>How many Senators are there?</b><br/>There are up to 10 faculty senators, along with approximately 10 student senators elected per grade.  See the Constitution for details.</p>
+
+<p><b>What are Senate Committees?</b><br/>Each senator is assigned to a Committee at the beginning of the year.  There are 6 committees: Executive, Community Service, Oversight, Climate, Policy, and Communications.  Each committee meets once a week outside of the Senate meeting. </p>
+</div>
+{% endif %}
+
+<!--
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+	<div class="notepad-index-post-tags" style="">
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	</div>
+</div>
+<hr>
+{% endfor %}
+-->
+
+<!-- Pager -->
+<!--
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+-->
+
+
+<script src="http://localhost:35729/livereload.js"></script>
+
