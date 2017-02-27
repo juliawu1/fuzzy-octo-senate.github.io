@@ -1,21 +1,21 @@
 # Site settings
 title: LHS Senate
 description: "A Unique System of High School Government"
-url: "http://vitaedev.com/"
+url: "http://senate.lex.ma/"
 
 
 
 
 # Secondary Parameters
-baseurl: "/lhssenate"
+baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 #logo: /lhssenate/img/logos/gavel.png
 
 # Tertiary Parameters
-github_username:  vitaedev
-project_repository: lhssenate
-disqus_shortname: lhssenate
+github_username:  fuzzy-octo-senate
+project_repository: fuzzy-octo-senate.github.io
+disqus_shortname: fuzzy-octo-senate.github.io
 g-analytics: UA-75881392-1 #not really?
 altmetric: true
 
