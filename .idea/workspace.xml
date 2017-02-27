@@ -2,553 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ebaea19-c226-4ae2-a219-2257cf227065" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/05/02/New-Presentation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/05/02/New-Projector/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/05/02/New-Surface-Visualization/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Guardfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2011/01/01/Open-Campus-Bill/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2011/01/02/Class-Council-Community-Service-Bill/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2011/01/03/Substitute-Teacher-Testing-Resolution/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/01/2016-1-Really-Cool-Bill-0/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/02/2016-1-Really-Cool-Bill-1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/03/2016-1-Really-Cool-Bill-2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/04/2016-1-Really-Cool-Bill-3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/05/2016-1-Really-Cool-Bill-4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/06/2016-1-Really-Cool-Bill-5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/07/2016-1-Really-Cool-Bill-6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/08/2016-1-Really-Cool-Bill-7/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/09/2016-1-Really-Cool-Bill-8/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/10/2016-1-Really-Cool-Bill-9/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/11/2016-1-Really-Cool-Bill-10/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/12/2016-1-Really-Cool-Bill-11/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/13/2016-1-Really-Cool-Bill-12/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/14/2016-1-Really-Cool-Bill-13/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/15/2016-1-Really-Cool-Bill-14/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/16/2016-1-Really-Cool-Bill-15/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/17/2016-1-Really-Cool-Bill-16/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/18/2016-1-Really-Cool-Bill-17/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/19/2016-1-Really-Cool-Bill-18/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/20/2016-1-Really-Cool-Bill-19/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/21/2016-1-Really-Cool-Bill-20/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/22/2016-1-Really-Cool-Bill-21/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/23/2016-1-Really-Cool-Bill-22/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/24/2016-1-Really-Cool-Bill-23/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/25/2016-1-Really-Cool-Bill-24/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/26/2016-1-Really-Cool-Bill-25/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/27/2016-1-Really-Cool-Bill-26/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/28/2016-1-Really-Cool-Bill-27/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/29/2016-1-Really-Cool-Bill-28/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/30/2016-1-Really-Cool-Bill-29/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/01/31/2016-1-Really-Cool-Bill-30/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/01/2016-2-Really-Cool-Bill-31/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/02/2016-2-Really-Cool-Bill-32/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/03/2016-2-Really-Cool-Bill-33/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/04/2016-2-Really-Cool-Bill-34/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/05/2016-2-Really-Cool-Bill-35/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/06/2016-2-Really-Cool-Bill-36/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/07/2016-2-Really-Cool-Bill-37/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/08/2016-2-Really-Cool-Bill-38/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/09/2016-2-Really-Cool-Bill-39/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/10/2016-2-Really-Cool-Bill-40/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/11/2016-2-Really-Cool-Bill-41/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/12/2016-2-Really-Cool-Bill-42/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/13/2016-2-Really-Cool-Bill-43/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/14/2016-2-Really-Cool-Bill-44/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/15/2016-2-Really-Cool-Bill-45/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/16/2016-2-Really-Cool-Bill-46/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/17/2016-2-Really-Cool-Bill-47/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/18/2016-2-Really-Cool-Bill-48/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/19/2016-2-Really-Cool-Bill-49/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/20/2016-2-Really-Cool-Bill-50/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/21/2016-2-Really-Cool-Bill-51/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/22/2016-2-Really-Cool-Bill-52/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/23/2016-2-Really-Cool-Bill-53/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/24/2016-2-Really-Cool-Bill-54/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/25/2016-2-Really-Cool-Bill-55/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/26/2016-2-Really-Cool-Bill-56/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/27/2016-2-Really-Cool-Bill-57/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/28/2016-2-Really-Cool-Bill-58/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/02/29/2016-2-Really-Cool-Bill-59/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/01/2016-2-Really-Cool-Bill-60/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/01/2016-3-Really-Cool-Bill-62/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/02/2016-2-Really-Cool-Bill-61/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/02/2016-3-Really-Cool-Bill-63/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/03/2016-3-Really-Cool-Bill-64/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/04/2016-3-Really-Cool-Bill-65/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/05/2016-3-Really-Cool-Bill-66/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/06/2016-3-Really-Cool-Bill-67/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/07/2016-3-Really-Cool-Bill-68/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/08/2016-3-Really-Cool-Bill-69/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/09/2016-3-Really-Cool-Bill-70/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/10/2016-3-Really-Cool-Bill-71/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/11/2016-3-Really-Cool-Bill-72/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/12/2016-3-Really-Cool-Bill-73/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/13/2016-3-Really-Cool-Bill-74/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/14/2016-3-Really-Cool-Bill-75/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/15/2016-3-Really-Cool-Bill-76/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/16/2016-3-Really-Cool-Bill-77/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/17/2016-3-Really-Cool-Bill-78/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/18/2016-3-Really-Cool-Bill-79/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/19/2016-3-Really-Cool-Bill-80/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/20/2016-3-Really-Cool-Bill-81/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/21/2016-3-Really-Cool-Bill-82/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/22/2016-3-Really-Cool-Bill-83/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/23/2016-3-Really-Cool-Bill-84/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/24/2016-3-Really-Cool-Bill-85/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/25/2016-3-Really-Cool-Bill-86/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/26/2016-3-Really-Cool-Bill-87/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/27/2016-3-Really-Cool-Bill-88/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/28/2016-3-Really-Cool-Bill-89/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/29/2016-3-Really-Cool-Bill-90/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/30/2016-3-Really-Cool-Bill-91/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/03/31/2016-3-Really-Cool-Bill-92/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/01/2016-4-Really-Cool-Bill-93/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/02/2016-4-Really-Cool-Bill-94/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/03/2016-4-Really-Cool-Bill-95/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/04/2016-4-Really-Cool-Bill-96/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/05/2016-4-Really-Cool-Bill-97/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/06/2016-4-Really-Cool-Bill-98/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/07/2016-4-Really-Cool-Bill-99/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/08/2016-4-Really-Cool-Bill-100/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/09/2016-4-Really-Cool-Bill-101/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/10/2016-4-Really-Cool-Bill-102/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/11/2016-4-Really-Cool-Bill-103/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/12/2016-4-Really-Cool-Bill-104/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/13/2016-4-Really-Cool-Bill-105/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/14/2016-4-Really-Cool-Bill-106/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/15/2016-4-Really-Cool-Bill-107/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/16/2016-4-Really-Cool-Bill-108/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/17/2016-4-Really-Cool-Bill-109/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/18/2016-4-Really-Cool-Bill-110/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/19/2016-4-Really-Cool-Bill-111/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/20/2016-4-Really-Cool-Bill-112/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/21/2016-4-Really-Cool-Bill-113/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/22/2016-4-Really-Cool-Bill-114/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/23/2016-4-Really-Cool-Bill-115/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/24/2016-4-Really-Cool-Bill-116/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/25/2016-4-Really-Cool-Bill-117/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/26/2016-4-Really-Cool-Bill-118/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/27/2016-4-Really-Cool-Bill-119/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/28/2016-4-Really-Cool-Bill-120/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/29/2016-4-Really-Cool-Bill-121/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/04/30/2016-4-Really-Cool-Bill-122/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/01/2016-4-Really-Cool-Bill-123/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/01/2016-5-Really-Cool-Bill-124/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/02/2016-5-Really-Cool-Bill-125/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/03/2016-5-Really-Cool-Bill-126/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/04/2016-5-Really-Cool-Bill-127/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/05/2016-5-Really-Cool-Bill-128/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/06/2016-5-Really-Cool-Bill-129/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/07/2016-5-Really-Cool-Bill-130/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/08/2016-5-Really-Cool-Bill-131/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/09/2016-5-Really-Cool-Bill-132/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/10/2016-5-Really-Cool-Bill-133/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/11/2016-5-Really-Cool-Bill-134/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/12/2016-5-Really-Cool-Bill-135/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/13/2016-5-Really-Cool-Bill-136/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/14/2016-5-Really-Cool-Bill-137/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/15/2016-5-Really-Cool-Bill-138/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/16/2016-5-Really-Cool-Bill-139/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/17/2016-5-Really-Cool-Bill-140/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/18/2016-5-Really-Cool-Bill-141/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/19/2016-5-Really-Cool-Bill-142/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/20/2016-5-Really-Cool-Bill-143/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/21/2016-5-Really-Cool-Bill-144/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/22/2016-5-Really-Cool-Bill-145/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/23/2016-5-Really-Cool-Bill-146/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/24/2016-5-Really-Cool-Bill-147/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/25/2016-5-Really-Cool-Bill-148/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/26/2016-5-Really-Cool-Bill-149/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/27/2016-5-Really-Cool-Bill-150/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/28/2016-5-Really-Cool-Bill-151/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/29/2016-5-Really-Cool-Bill-152/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/30/2016-5-Really-Cool-Bill-153/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/05/31/2016-5-Really-Cool-Bill-154/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/01/2016-6-Really-Cool-Bill-155/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/02/2016-6-Really-Cool-Bill-156/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/03/2016-6-Really-Cool-Bill-157/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/04/2016-6-Really-Cool-Bill-158/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/05/2016-6-Really-Cool-Bill-159/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/06/2016-6-Really-Cool-Bill-160/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/07/2016-6-Really-Cool-Bill-161/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/08/2016-6-Really-Cool-Bill-162/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/09/2016-6-Really-Cool-Bill-163/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/10/2016-6-Really-Cool-Bill-164/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/11/2016-6-Really-Cool-Bill-165/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/12/2016-6-Really-Cool-Bill-166/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/13/2016-6-Really-Cool-Bill-167/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/14/2016-6-Really-Cool-Bill-168/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/15/2016-6-Really-Cool-Bill-169/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/16/2016-6-Really-Cool-Bill-170/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/17/2016-6-Really-Cool-Bill-171/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/18/2016-6-Really-Cool-Bill-172/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/19/2016-6-Really-Cool-Bill-173/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/20/2016-6-Really-Cool-Bill-174/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/21/2016-6-Really-Cool-Bill-175/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/22/2016-6-Really-Cool-Bill-176/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/23/2016-6-Really-Cool-Bill-177/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/24/2016-6-Really-Cool-Bill-178/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/25/2016-6-Really-Cool-Bill-179/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/26/2016-6-Really-Cool-Bill-180/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/27/2016-6-Really-Cool-Bill-181/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/28/2016-6-Really-Cool-Bill-182/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/29/2016-6-Really-Cool-Bill-183/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/06/30/2016-6-Really-Cool-Bill-184/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/01/2016-6-Really-Cool-Bill-185/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/01/2016-7-Really-Cool-Bill-186/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/02/2016-7-Really-Cool-Bill-187/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/03/2016-7-Really-Cool-Bill-188/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/04/2016-7-Really-Cool-Bill-189/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/05/2016-7-Really-Cool-Bill-190/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/06/2016-7-Really-Cool-Bill-191/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/07/2016-7-Really-Cool-Bill-192/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/08/2016-7-Really-Cool-Bill-193/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/09/2016-7-Really-Cool-Bill-194/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/10/2016-7-Really-Cool-Bill-195/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/11/2016-7-Really-Cool-Bill-196/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/12/2016-7-Really-Cool-Bill-197/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/13/2016-7-Really-Cool-Bill-198/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/14/2016-7-Really-Cool-Bill-199/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/15/2016-7-Really-Cool-Bill-200/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/16/2016-7-Really-Cool-Bill-201/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/17/2016-7-Really-Cool-Bill-202/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/18/2016-7-Really-Cool-Bill-203/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/19/2016-7-Really-Cool-Bill-204/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/20/2016-7-Really-Cool-Bill-205/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/21/2016-7-Really-Cool-Bill-206/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/22/2016-7-Really-Cool-Bill-207/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/23/2016-7-Really-Cool-Bill-208/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/24/2016-7-Really-Cool-Bill-209/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/25/2016-7-Really-Cool-Bill-210/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/26/2016-7-Really-Cool-Bill-211/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/27/2016-7-Really-Cool-Bill-212/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/28/2016-7-Really-Cool-Bill-213/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/29/2016-7-Really-Cool-Bill-214/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/30/2016-7-Really-Cool-Bill-215/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/07/31/2016-7-Really-Cool-Bill-216/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/01/2016-8-Really-Cool-Bill-217/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/02/2016-8-Really-Cool-Bill-218/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/03/2016-8-Really-Cool-Bill-219/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/04/2016-8-Really-Cool-Bill-220/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/05/2016-8-Really-Cool-Bill-221/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/06/2016-8-Really-Cool-Bill-222/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/07/2016-8-Really-Cool-Bill-223/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/08/2016-8-Really-Cool-Bill-224/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/09/2016-8-Really-Cool-Bill-225/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/10/2016-8-Really-Cool-Bill-226/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/11/2016-8-Really-Cool-Bill-227/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/12/2016-8-Really-Cool-Bill-228/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/13/2016-8-Really-Cool-Bill-229/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/14/2016-8-Really-Cool-Bill-230/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/15/2016-8-Really-Cool-Bill-231/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/16/2016-8-Really-Cool-Bill-232/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/17/2016-8-Really-Cool-Bill-233/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/18/2016-8-Really-Cool-Bill-234/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/19/2016-8-Really-Cool-Bill-235/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/20/2016-8-Really-Cool-Bill-236/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/21/2016-8-Really-Cool-Bill-237/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/22/2016-8-Really-Cool-Bill-238/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/23/2016-8-Really-Cool-Bill-239/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/24/2016-8-Really-Cool-Bill-240/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/25/2016-8-Really-Cool-Bill-241/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/26/2016-8-Really-Cool-Bill-242/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/27/2016-8-Really-Cool-Bill-243/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/28/2016-8-Really-Cool-Bill-244/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/29/2016-8-Really-Cool-Bill-245/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/30/2016-8-Really-Cool-Bill-246/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/08/31/2016-8-Really-Cool-Bill-247/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/01/2016-9-Really-Cool-Bill-248/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/02/2016-9-Really-Cool-Bill-249/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/03/2016-9-Really-Cool-Bill-250/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/04/2016-9-Really-Cool-Bill-251/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/05/2016-9-Really-Cool-Bill-252/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/06/2016-9-Really-Cool-Bill-253/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/07/2016-9-Really-Cool-Bill-254/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/08/2016-9-Really-Cool-Bill-255/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/09/2016-9-Really-Cool-Bill-256/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/10/2016-9-Really-Cool-Bill-257/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/11/2016-9-Really-Cool-Bill-258/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/12/2016-9-Really-Cool-Bill-259/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/13/2016-9-Really-Cool-Bill-260/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/14/2016-9-Really-Cool-Bill-261/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/15/2016-9-Really-Cool-Bill-262/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/16/2016-9-Really-Cool-Bill-263/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/17/2016-9-Really-Cool-Bill-264/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/18/2016-9-Really-Cool-Bill-265/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/19/2016-9-Really-Cool-Bill-266/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/20/2016-9-Really-Cool-Bill-267/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/21/2016-9-Really-Cool-Bill-268/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/22/2016-9-Really-Cool-Bill-269/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/23/2016-9-Really-Cool-Bill-270/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/24/2016-9-Really-Cool-Bill-271/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/25/2016-9-Really-Cool-Bill-272/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/26/2016-9-Really-Cool-Bill-273/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/27/2016-9-Really-Cool-Bill-274/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/28/2016-9-Really-Cool-Bill-275/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/29/2016-9-Really-Cool-Bill-276/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/09/30/2016-9-Really-Cool-Bill-277/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/01/2016-10-Really-Cool-Bill-279/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/01/2016-9-Really-Cool-Bill-278/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/02/2016-10-Really-Cool-Bill-280/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/03/2016-10-Really-Cool-Bill-281/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/04/2016-10-Really-Cool-Bill-282/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/05/2016-10-Really-Cool-Bill-283/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/06/2016-10-Really-Cool-Bill-284/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/07/2016-10-Really-Cool-Bill-285/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/08/2016-10-Really-Cool-Bill-286/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/09/2016-10-Really-Cool-Bill-287/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/10/2016-10-Really-Cool-Bill-288/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/11/2016-10-Really-Cool-Bill-289/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/12/2016-10-Really-Cool-Bill-290/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/13/2016-10-Really-Cool-Bill-291/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/14/2016-10-Really-Cool-Bill-292/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/15/2016-10-Really-Cool-Bill-293/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/16/2016-10-Really-Cool-Bill-294/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/17/2016-10-Really-Cool-Bill-295/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/18/2016-10-Really-Cool-Bill-296/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/19/2016-10-Really-Cool-Bill-297/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/20/2016-10-Really-Cool-Bill-298/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/21/2016-10-Really-Cool-Bill-299/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/22/2016-10-Really-Cool-Bill-300/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/23/2016-10-Really-Cool-Bill-301/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/24/2016-10-Really-Cool-Bill-302/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/25/2016-10-Really-Cool-Bill-303/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/26/2016-10-Really-Cool-Bill-304/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/27/2016-10-Really-Cool-Bill-305/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/28/2016-10-Really-Cool-Bill-306/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/29/2016-10-Really-Cool-Bill-307/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/30/2016-10-Really-Cool-Bill-308/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/10/31/2016-10-Really-Cool-Bill-309/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/01/2016-11-Really-Cool-Bill-310/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/02/2016-11-Really-Cool-Bill-311/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/03/2016-11-Really-Cool-Bill-312/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/04/2016-11-Really-Cool-Bill-313/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/05/2016-11-Really-Cool-Bill-314/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/06/2016-11-Really-Cool-Bill-315/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/07/2016-11-Really-Cool-Bill-316/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/08/2016-11-Really-Cool-Bill-317/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/09/2016-11-Really-Cool-Bill-318/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/10/2016-11-Really-Cool-Bill-319/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/11/2016-11-Really-Cool-Bill-320/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/12/2016-11-Really-Cool-Bill-321/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/13/2016-11-Really-Cool-Bill-322/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/14/2016-11-Really-Cool-Bill-323/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/15/2016-11-Really-Cool-Bill-324/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/16/2016-11-Really-Cool-Bill-325/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/17/2016-11-Really-Cool-Bill-326/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/18/2016-11-Really-Cool-Bill-327/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/19/2016-11-Really-Cool-Bill-328/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/20/2016-11-Really-Cool-Bill-329/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/21/2016-11-Really-Cool-Bill-330/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/22/2016-11-Really-Cool-Bill-331/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/23/2016-11-Really-Cool-Bill-332/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/24/2016-11-Really-Cool-Bill-333/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/25/2016-11-Really-Cool-Bill-334/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/26/2016-11-Really-Cool-Bill-335/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/27/2016-11-Really-Cool-Bill-336/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/28/2016-11-Really-Cool-Bill-337/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/29/2016-11-Really-Cool-Bill-338/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/11/30/2016-11-Really-Cool-Bill-339/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/01/2016-11-Really-Cool-Bill-340/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/01/2016-12-Really-Cool-Bill-341/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/02/2016-12-Really-Cool-Bill-342/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/03/2016-12-Really-Cool-Bill-343/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/04/2016-12-Really-Cool-Bill-344/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/05/2016-12-Really-Cool-Bill-345/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/06/2016-12-Really-Cool-Bill-346/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/07/2016-12-Really-Cool-Bill-347/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/08/2016-12-Really-Cool-Bill-348/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/09/2016-12-Really-Cool-Bill-349/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/10/2016-12-Really-Cool-Bill-350/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/11/2016-12-Really-Cool-Bill-351/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/12/2016-12-Really-Cool-Bill-352/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/13/2016-12-Really-Cool-Bill-353/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/14/2016-12-Really-Cool-Bill-354/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/15/2016-12-Really-Cool-Bill-355/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/16/2016-12-Really-Cool-Bill-356/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/17/2016-12-Really-Cool-Bill-357/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/18/2016-12-Really-Cool-Bill-358/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/19/2016-12-Really-Cool-Bill-359/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/20/2016-12-Really-Cool-Bill-360/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/21/2016-12-Really-Cool-Bill-361/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/22/2016-12-Really-Cool-Bill-362/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/23/2016-12-Really-Cool-Bill-363/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/24/2016-12-Really-Cool-Bill-364/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/25/2016-12-Really-Cool-Bill-365/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/26/2016-12-Really-Cool-Bill-366/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/27/2016-12-Really-Cool-Bill-367/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/28/2016-12-Really-Cool-Bill-368/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/29/2016-12-Really-Cool-Bill-369/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/30/2016-12-Really-Cool-Bill-370/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bills/2016/12/31/2016-12-Really-Cool-Bill-371/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/colorscheme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/committees/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/constitution/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/clean-blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/clean-blog.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/mermaid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/mermaid.forest.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/print/paper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/print/pdf.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/reveal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/reveal.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/syntax.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/beige.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/blood.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/moon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/night.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/serif.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/simple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/sky.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/solarized.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/beige.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/blood.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/default.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/moon.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/night.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/serif.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/simple.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/sky.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/source/solarized.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/template/mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/template/settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/theme/template/theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/cur-senators/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/election/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon/code.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Logo_Fairy_Tail_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/altmetricsamplebadge.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/home-bg-prev.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/home-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/icons/github-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/icons/gplus-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/icons/resulttag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/icons/url-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/logos/Project-Pages-New-Logo-Inverted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/logos/Project-Pages-New-Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/logos/gavel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/logos/matinlogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/logos/matinlogotiny.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/mass-effect-2-cerberus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/slidebackground.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/clean-blog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/clean-blog.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/lightbox.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/lunr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/mermaid.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/plythreejs/PLYLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/plythreejs/TransformControls.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/plythreejs/three.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/reveal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/reveal.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/css/zenburn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/font/league_gothic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/font/league_gothic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/font/league_gothic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/font/league_gothic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/font/league_gothic_license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/js/classList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/js/head.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lib/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page10/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page11/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page12/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page13/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page14/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page15/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page16/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page17/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page18/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page19/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page20/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page21/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page22/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page23/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page24/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page25/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page26/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page27/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page28/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page29/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page30/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page31/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page32/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page33/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page34/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page35/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page36/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page37/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page38/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page39/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page7/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page8/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page9/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/highlight/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/leap/leap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/markdown/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/markdown/markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/markdown/marked.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/math/math.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/multiplex/client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/multiplex/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/multiplex/master.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/notes-server/client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/notes-server/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/notes-server/notes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/notes/notes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/notes/notes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/postmessage/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/postmessage/postmessage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/print-pdf/print-pdf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/DataProjector.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/DataProjector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/TrackballControls.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/TweenLite.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/jquery-2.0.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/jquery-2.0.2.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/projector/three.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/remotes/remotes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/search/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/plugin/zoom-js/zoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/ply/ChunkColoredWeb.ply" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/ppanchor.matin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/project1/2016/04/19/New-Post/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/project1/2016/05/01/New-Notebook/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/project1/2016/05/02/New-Matlab-Script/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/project1/2016/11/08/Um/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/project1/2016/11/09/Cool-New-Bill/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/projectors/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/projects/bills/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/proselinks.jsonp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/search/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/search/search_data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/stl/test.stl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/test.test" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/1989-01-05-Class-Service-Project-Bill.markdown" afterPath="$PROJECT_DIR$/_posts/1989-01-05-Class-Service-Project-Bill.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-01-02-Class-Council-Community-Service-Bill.markdown" afterPath="$PROJECT_DIR$/_posts/2011-01-02-Class-Council-Community-Service-Bill.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/clean-blog.css" afterPath="$PROJECT_DIR$/css/clean-blog.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -566,8 +21,18 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clean-blog.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/clean-blog.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              <caret line="145" column="3" lean-forward="true" selection-start-line="145" selection-start-column="3" selection-end-line="145" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -595,9 +60,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/1989-01-05-Class-Service-Project-Bill.markdown" />
         <option value="$PROJECT_DIR$/_posts/2011-01-02-Class-Council-Community-Service-Bill.markdown" />
+        <option value="$PROJECT_DIR$/css/clean-blog.css" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -754,12 +220,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488234503006</updated>
-      <workItem from="1488234504967" duration="136000" />
+      <workItem from="1488234504967" duration="247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136000" />
+    <option name="totallyTimeSpent" value="247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -822,10 +288,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/css/clean-blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <caret line="145" column="3" lean-forward="true" selection-start-line="145" selection-start-column="3" selection-end-line="145" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>

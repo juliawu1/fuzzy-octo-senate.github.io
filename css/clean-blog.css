@@ -146,8 +146,8 @@ hr.small {
   }
 }
 .intro-header {
-  background-image: url('/lhssenate/img/home-bg.jpg');
-  background: linear-gradient(-5deg, rgba(0, 7, 107, 0.6) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(135deg, rgba(247, 252, 255, 0.17) 0%,rgb(6, 35, 86) 100%), url(/lhssenate/img/home-bg.jpg) no-repeat center;
+  background-image: url('/img/home-bg.jpg');
+  background: linear-gradient(-5deg, rgba(0, 7, 107, 0.6) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(135deg, rgba(247, 252, 255, 0.17) 0%,rgb(6, 35, 86) 100%), url(/img/home-bg.jpg) no-repeat center;
 
 /*  background-color: #808080;
   background: no-repeat center center;
