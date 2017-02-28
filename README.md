@@ -1,3 +1,3 @@
-#Project Pages
+#LHS Student-Faculty Senate
 
-Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](https://github.com/projectpages/project-pages/wiki/).
+fuzzy-octo-senate is the official hosting system for bills passed in Lexington High School's Student-Faculty Senate.
