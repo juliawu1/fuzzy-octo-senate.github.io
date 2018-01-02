@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          Voter Registration Drive
+title:          Technology Board Bill
 year:           2012-2013
 summary:        
 sponsors:       LHS Student-Faculty Senate
