@@ -2,10 +2,10 @@
 layout:         bill
 category:       bills
 title:          Technology Board Bill
-year:           2012-2013
+year:           2013-2014
 summary:        
 sponsors:       LHS Student-Faculty Senate
-passed:         in 2012
+passed:         in 2014
 tags:           
 visualworkflow: true
 ---
