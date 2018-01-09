@@ -7,7 +7,7 @@
  sponsors:       
  passed:         in 2014
  tags:           
- visualworkflow: 
+ visualworkflow: true
  ---
  
  Lexington is an increasingly multicultural diverse community.  LHS should respect the diversity of religious and cultural traditions of all students.
